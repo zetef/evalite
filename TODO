@@ -1,0 +1,10 @@
+building
+--------
+
+* add a config.mk
+
+
+misc
+----
+
+	$ grep -nE 'XXX|TODO' src/** include/**

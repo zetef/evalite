@@ -1,0 +1,28 @@
+this is mostly compatible with 
+gnu/linux systems, but if you
+want to try it under windows with
+WSL or cygwin, be my guest!
+
+
+requirements
+------------
+
+* gnu make
+* hope you have the libc 
+  headers at least...
+
+
+building
+--------
+a simple
+	
+	make clean all
+
+would do the trick and an executable
+will pop up in the folder.
+for more cleaning
+	
+	make distclean
+
+would solve all your problems :)
+

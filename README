@@ -1,0 +1,18 @@
+evalite - evaluate problems
+---------------------------
+
+this is a simple program that evaluates
+a problem(more info in the tests
+folder) gives a score based on the 
+correct outputs.
+
+basically a poor man's unit testing
+program.
+
+========================================
+
+building
+--------
+
+should be pretty easy.
+see BUILDING for more info.
